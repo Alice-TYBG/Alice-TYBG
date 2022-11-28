@@ -1,6 +1,5 @@
 hi, im Alice, 
-i produce music here --> https://linktr.ee/n2v2
-i try to build my own link tree in html 
+i produce music here --> https://n2v2.tumblr.com/
 
 <!---
 Alice-TYBG/Alice-TYBG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
